@@ -109,22 +109,12 @@ Everything can be adjusted to your preference.
 
 ---
 
-## 🖼 Preview
-
-| Idle | Sleeping | Chatting |
-|------|------|------|
-| Coming Soon | Coming Soon | Coming Soon |
-
-(You can replace these with screenshots or GIFs later.)
-
----
-
 ## 🚀 Installation
 
 Clone the repository
 
 ```bash
-git clone https://github.com/yourname/Cute-chibi-girl-deskpet.git
+git clone https://github.com/ShinanSky/Cute-chibi-girl-deskpet.git
 ```
 
 Install dependencies
