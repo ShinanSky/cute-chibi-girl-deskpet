@@ -1,6 +1,8 @@
 # Cute-chibi-girl-deskpet
 
-![preview](docs/idle.png)
+<p align="center">
+    <img src="docs/idle.png" width="220">
+</p>
 
 > A tiny AI-powered chibi girl who quietly lives on your desktop.
 
